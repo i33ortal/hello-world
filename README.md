@@ -8,8 +8,8 @@ Hello world and programmers living here
 | ```       ``` |
 | _|        _|  |
 (  == + ==      )
-\    3        /
-------------
+ \    3        /
+  ------------
 
 
 
