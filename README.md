@@ -1,6 +1,6 @@
 # hello-world
 
-Hello world and programmers living here
+Hello
 
   /|         |\
  / |         | \
